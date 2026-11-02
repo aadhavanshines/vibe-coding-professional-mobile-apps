@@ -16,7 +16,7 @@ All people, restaurants, products, shops and titles are fictional. The apps are 
 
 ## Run it
 
-You need Node.js 20.19 or later.
+You need Node.js 22.13 or later (Node 24 works too); `.nvmrc` selects 22.
 
 ```
 npm install
